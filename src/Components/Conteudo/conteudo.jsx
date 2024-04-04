@@ -7,7 +7,6 @@ fetch("https://rickandmortyapi.com/api/character")
 .then(response => response.json())
 .then(data => {
     
-
     for (let index = 0; index < data.results.length; index++) {
         console.log(data.results)
         let corpo = document.querySelector("#tableCorpo")
