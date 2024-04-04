@@ -1,0 +1,14 @@
+.texto{
+    background-color: blueviolet;
+}
+img{
+
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tablecorpo{
+    justify-content: center;
+
+}
