@@ -1,17 +1,23 @@
 
-import Header from "./Components/Header/header"
-import Conteudo from "./Components/Conteudo/conteudo"
-import Footer from "./Components/Footer/footer"
-function App() {
-  
-  return (
-    <>
-    <Header> </Header>
-    
-    <Conteudo> </Conteudo>
-    <Footer> </Footer>
-      </>
-  )
-}
 
-export default App
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import DetalhesProduto from "./paginas/detalhesProduto";
+import Home from "./paginas/home";
+
+
+
+
+
+
+export default function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route index element= {<Home/>}/>
+           <Route path="detalhes" element={<DetalhesProduto/>}/>
+           <Route path="login" element={<login/>}/>
+    
+      </Routes>
+    </BrowserRouter>
+);
+}
