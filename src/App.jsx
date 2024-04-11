@@ -5,10 +5,6 @@ import DetalhesProduto from "./paginas/detalhesProduto";
 import Home from "./paginas/home";
 
 
-
-
-
-
 export default function App() {
   return (
     <BrowserRouter>
