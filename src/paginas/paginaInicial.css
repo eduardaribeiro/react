@@ -1,0 +1,218 @@
+.carrossel{
+    display: flex;
+    margin-top: 50px;
+    background-color: #f5f5f5;
+    height: 681px;
+    width: 100%;
+    
+}
+
+.tenisnike{
+    margin-left: -150px;
+    width: 800px;
+}
+
+.ornamentoCapa{
+    margin-left: -130px;
+    margin-top: 20px ;
+    width: 100px;
+    height: 100px;
+}
+
+.botoescapa{
+    margin-top: 600px;
+    margin-left: -50%;
+    
+    
+}
+
+.carrossel button{
+    background-color: #C92071;
+    width: 220px;
+    height: 48px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.carrossel1{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.carrossel1 h1{
+    font-size: 64px;
+    width: 510px;
+}
+
+.carrossel1 p{
+    width: 495px;
+    font-size: 18px;
+    font-family: "inter";
+
+}
+
+.orange{
+   color:  #F6AA1C;
+   font-size: 16px;
+
+}
+.conteudoesquerda{
+    margin-left: 100px;
+}
+
+/* aqui acaba  a capa */
+
+
+.textodestaque{
+    width: 283px;
+    height: 38px;
+    font-size: 24px;
+    margin-left: 65px;
+    margin-bottom: -15px;
+    font-family: "inter";
+
+}
+
+
+
+.colecoes{
+    
+    display: flex;
+    
+    gap: 15px;
+    width: 
+    283px;
+    height: 38px;
+    font-size: 24px;
+    margin-left: 65px;
+    margin-bottom: -15px;
+    font-family: "inter";
+
+}
+
+
+
+.colecoes{
+    
+    display: flex;
+    
+    gap: 15px;
+    width: 90%;
+    align-content: center;
+    margin: 0 auto;
+    height: 20px;
+   
+    
+    
+    
+}
+
+.colecoes button{
+    
+   background-color:#f5f5f5 ;
+   color:#C92071;
+   height: 48px;
+   width: 143px;
+   margin-left: 20px ;
+   position: relative;
+   border:none;
+   border-radius: 15px;
+   font-family: "inter";
+   
+   
+
+   
+}
+ .imgcolecao{
+    
+    width:240px;
+    height: 265px;
+    margin-top: -210px;
+    margin-left: 135px;
+    border-bottom: none;
+        
+
+    
+ }
+
+.colecoes p {
+    background-color: #E7FF86;
+    
+    width: 96px;
+    height: 25px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: "inter";
+    margin-left: 20px;
+    padding:  15px, 5px, 15px;
+    margin-bottom: -15px;
+    font-size: 14px;
+    
+    
+   
+
+}
+
+.colecaoh2 {
+    position: relative;
+     font-size:30px;
+     
+     margin-left: 20px;
+     font-family: "inter";
+   
+     
+     
+}
+
+.colecao1{
+    background: #D8E3F2;
+    width: 405px;
+    height: 251px;
+}
+
+
+
+.colecao2{
+    background: #D8E3F2;
+    width: 405px;
+    height: 251px;
+}
+
+.colecao3{
+    background: #D8E3F2;
+    width: 405px;
+    height: 251px;
+}
+
+.topicoDestaque{
+    margin-top: 25%;
+    margin-left: 35%;
+    gap: 50px;
+    
+ 
+   
+ 
+}
+
+.tipodestaque {
+    gap: 50px;
+    margin: 0 auto;
+    border-radius: 60%;
+    height: 100px;
+    display: flex;
+
+    
+} 
+
+
+.textodestaque2{
+    width: 283px;
+    height: 38px;
+    gap: 52px;
+    font-size: 24px;
+    margin-left: 60px;
+    margin-top: -30px;
+    font-family: "inter";
+}
+
